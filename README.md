@@ -9,7 +9,7 @@ I have attched the data set that is provided to me and 1 pdf that contains all t
 
 
 # Link Of Project:
-https://public.tableau.com/app/profile/devanshi.gupta6884/viz/sportdataanalysis/Q12
+Uploaded in zip file
 It's a link of my Tableau Public profile where I have uploaded this project.
 
 # Summary:
